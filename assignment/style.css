@@ -1,20 +1,32 @@
 /* Give your page a fun background color */
-body{background-color:blueviolet;}
+.Main{background-color: #E2D1F990;}
 /* Make the header and footer a different color from the background */
 
-h1{background-color:red;}
-footer {background-color:aqua;}
+ 
+.footer-1 {background-color: #F7C5CC70;
+margin-left: 625px;
+margin-right: 600px ;}
 /* Align the h1 containing your name in the center of the header*/
 
-h1{ text-align: center;}
-/* Make your p tag a different color and italic */
-p{color: blue;
-font-style:italic;}
-/* Put a border around your image */
-img{ width: 270px;
-    border: 5px solid red;
-    
-
+.Header{ text-align: center;
+ background-color:#3A6B3530; margin-left: 650px;margin-right: 650px;
+ 
+    margin-top: 1%; color:#317773; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
+/* Make your p tag a different color and italic *//* Put a border around your image */
+P{color:rgb(155, 23, 231);
+    font-style:italic}
+.hacker{ width: 400px;
+    border: 5px solid rgb(167, 95, 163);
+    margin-left: 550px;}
+
 /* Change the font-family of your list */
-ul{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.list{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style-position: inside; color:#317773;
+text-align: center;}
+.intro-1{color: #7A2048;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;}
+.intro-2{text-align: center;color: #7A2048}
+h5{text-align: right;}
+.anje{margin-top: 25px;}
